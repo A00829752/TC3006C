@@ -6,3 +6,4 @@ Los datos provienen de Kaggle y tienen el objetivo de predecir un riego elevado 
 https://www.kaggle.com/datasets/rashikrahmanpritom/heart-attack-analysis-prediction-dataset
 
 - ClasificadorFramework.ipynb: en este archivo se encuentra el trabajo realizado.
+- ClasFramework.pdf: contiene reporte de la implementación de la solución.
